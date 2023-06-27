@@ -1,0 +1,8 @@
+changeBg:乌云.jpg -next;
+bgm:紧张氛围激动音效_爱给网_aigei_com.mp3;
+:第二天，晴朗得天空飘来了一片乌云;
+changeFigure:商人.png -next;
+商人:怎么样，村长考虑好了吗？;
+changeFigure: -next;
+bgm:none;
+choose:同意:2同意.txt|拒绝:1拒绝.txt;

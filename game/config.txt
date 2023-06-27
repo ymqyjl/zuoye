@@ -1,0 +1,5 @@
+Game_name:小镇的十字路口;
+Game_key:a25ed11f0b24998;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:开始背景.png;

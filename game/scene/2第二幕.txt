@@ -1,0 +1,5 @@
+changeBg:风和日丽.jpg -next;
+bgm:大自然虫鸣鸟叫声_爱给网_aigei_com.mp3;
+:对话风和日丽的早上，鸟叫声，流水声，欣欣向荣的景象。;
+bgm:none;
+changeScene:3第三幕.txt

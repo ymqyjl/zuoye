@@ -1,0 +1,18 @@
+bgm:大自然虫鸣鸟叫声_爱给网_aigei_com.mp3;
+changeBg:风和日丽.jpg -next;
+bgm:none;
+changeFigure:村长.png -left -next;
+村长伸了伸懒腰::天亮了啊，今天天气不错。;
+changeFigure:村民2.png -right -next;
+bgm:none;
+bgm:很急用力敲门声_爱给网_aigei_com.mp3;
+村民a急促的敲门:村长！村长！有人找你。;
+bgm:none;
+bgm:村长商人.mp3;
+村长:谁啊，这么着急忙慌的干哈。谁找俺。;
+村民a:一个…一个……俺不认识啊，看着像城里来的。;
+村长:（疑惑）城里来的？带我去看看。;
+changeFigure:none -left -next;
+changeFigure: -right -next;
+changeScene:4第四幕.txt
+bgm:none;

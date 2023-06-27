@@ -1,0 +1,12 @@
+:几年后;
+bgm:祥和.mp3;
+changeBg:树林小溪.jpg -next;
+:蓝天白云下，村长和他的孙子坐在小溪旁，看着炊烟袅袅的村子。;
+changeFigure:小孙子.png -next;
+小孙子:爷爷，吃饭咯;
+changeFigure: -next;
+changeFigure:村长.png -left;
+村长:来啦来啦！;
+changeFigure: -left -next;
+intro:因为村里人守住了本心|大家齐心协力打造自己的家园|子孙后代都因此得福;
+bgm:none;

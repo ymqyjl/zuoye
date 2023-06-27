@@ -1,0 +1,13 @@
+changeBg:小木屋.jpg -next;
+:夜晚，村民代表们汇集在一个屋里，屋里的烛火摇摇晃晃，仿佛随时都要熄灭;
+changeFigure:村长.png -left -next;
+村长:介个事儿，捏们也听说了，有啥看法，说说。;
+changeFigure: -left -next;
+changeFigure:村民2.png -right -next;
+村民a:（眼睛放光）村长，俺看俺们就换啊，几个破木头，那是多少钱。;
+changeFigure: -right -next;
+changeFigure:村民1.png -left -next;
+村民b:（大声呵斥），钱钱钱，一天就知道钱，忘了老村长咋说得，就知道钱。;
+changeFigure: -left -next;
+:村长背过身，陷入沉思。;
+changeScene:6第六幕.txt
